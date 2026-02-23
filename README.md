@@ -2,6 +2,8 @@
 
 ## Project info
 
+**URL BASE44**: https://wandering-venda-facil-shop.base44.app
+
 **URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
 
 ## How can I edit this code?
